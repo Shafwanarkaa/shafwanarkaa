@@ -2,7 +2,7 @@
 
 ### <summary><strong>Heyyo!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics and Data Sciencetist. </br>
+    - :keyboard: I’m currently learning Data Analytics and Data Science. </br>
     - :mailbox: How to reach me: <a href="mailto:shafwanarkap@gmail.com">Email me!</a>  </br>
 <p>
 
